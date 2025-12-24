@@ -1,4 +1,4 @@
-# Laptop Price Predictor 💻
+# Laptop Price Predictor 
 
 A machine learning project that predicts laptop prices based on specifications like
 brand, RAM, storage, processor, GPU, display, etc.
